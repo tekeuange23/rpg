@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="fonctions.cpp" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6117" topLine="9" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="66" />
+			<Collapse line="131" />
+			<Collapse line="157" />
+			<Collapse line="213" />
+			<Collapse line="225" />
+			<Collapse line="230" />
+			<Collapse line="241" />
+			<Collapse line="255" />
+		</Folding>
+	</File>
+	<File name="Personnage.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1120" topLine="2" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+			<Collapse line="7" />
+			<Collapse line="10" />
+			<Collapse line="13" />
+			<Collapse line="16" />
+			<Collapse line="21" />
+			<Collapse line="42" />
+			<Collapse line="46" />
+			<Collapse line="48" />
+			<Collapse line="55" />
+			<Collapse line="61" />
+			<Collapse line="65" />
+			<Collapse line="69" />
+			<Collapse line="72" />
+			<Collapse line="75" />
+			<Collapse line="81" />
+			<Collapse line="90" />
+			<Collapse line="93" />
+			<Collapse line="96" />
+			<Collapse line="99" />
+		</Folding>
+	</File>
+	<File name="fichier.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="48" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="fichier.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="112" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="371" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Personnage.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="705" topLine="14" />
+		</Cursor>
+	</File>
+	<File name="fonctions.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="179" topLine="0" />
+		</Cursor>
+	</File>
+	<EditorTabsLayout layout="0a7877b85b4322e10003cd6900000002=0;jeu RPG:main.cpp,1;jeu RPG:fonctions.h,*2;jeu RPG:fonctions.cpp,3;jeu RPG:Personnage.h,4;jeu RPG:Personnage.cpp,6;jeu RPG:fichier.h,5;jeu RPG:fichier.cpp@layout2|name=dummy;caption=;state=2098174;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=627;besth=214;minw=627;minh=214;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=0a7877b85b4322e10003cd6900000002;caption=;state=2098172;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=200;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=202|" />
+</CodeBlocks_layout_file>

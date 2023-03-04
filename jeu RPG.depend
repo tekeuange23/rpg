@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1529457956 source:e:\ange\projets\c++\jeu rpg\fichier.cpp
+	"fichier.h"
+
+1531154696 source:e:\ange\projets\c++\jeu rpg\main.cpp
+	"personnage.h"
+	"fonctions.h"
+
+1531159559 e:\ange\projets\c++\jeu rpg\personnage.h
+	<iostream>
+	<string>
+	"fichier.h"
+
+1531153374 source:e:\ange\projets\c++\jeu rpg\personnage.cpp
+	"personnage.h"
+
+1526161004 e:\ange\projets\c++\jeu rpg\arme.h
+	<iostream>
+	<string>
+
+1526163808 e:\ange\projets\c++\jeu rpg\fichier.h
+	<iostream>
+	<string>
+
+1531160767 e:\ange\projets\c++\jeu rpg\fonctions.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<ctime>
+	<string>
+	"Personnage.h"
+
+1531161334 source:e:\ange\projets\c++\jeu rpg\fonctions.cpp
+	"fonctions.h"
+
