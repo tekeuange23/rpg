@@ -1,0 +1,26 @@
+Personnage p1,p2("Tchinda","SABRE LASER"),p3("Ange Tekeu",100,30,"KALASH",90);
+    Personnage  p4(p3);
+
+    //Temps mort ! Voyons voir la vie de chacun…
+    cout<<"    "<<p1.estVivant()<<endl;
+    p1.afficherEtat();
+    cout<<"    "<<p2.estVivant()<<endl;
+    p2.afficherEtat();
+    cout<<"    "<<p3.estVivant()<<endl;
+    p3.afficherEtat();
+    cout<<"    "<<p4.estVivant()<<endl;
+    p4.afficherEtat();
+
+    p4.attaquerMana(p3,1000);
+    p4.attaquerMana(p3,50);
+    p1.attaquerMana(p2,100);
+    p1.boirePotion(100);
+
+    cout<<"    "<<p1.estVivant()<<endl;
+    p1.afficherEtat();
+    cout<<"    "<<p2.estVivant()<<endl;
+    p2.afficherEtat();
+    cout<<"    "<<p3.estVivant()<<endl;
+    p3.afficherEtat();
+    cout<<"    "<<p4.estVivant()<<endl;
+    p4.afficherEtat();
